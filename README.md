@@ -13,4 +13,4 @@ This is a simple implementation of the classic Tic Tac Toe game in C++. The game
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/MuhammadTalha15/Tic-Tac-Toe-C.git
+   git clone https://github.com/MuhammadTalha15/Tic-Tac-Toe-C-.git
